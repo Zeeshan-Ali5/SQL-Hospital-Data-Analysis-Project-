@@ -1,7 +1,8 @@
 # SQL-Hospital-Data-Analysis-Project.
 This project focuses on analyzing hospital data using SQL queries to extract meaningful insights. The dataset includes details such as patient records, doctor availability, admission/discharge dates, and medical expenses. Through SQL aggregation and filtering techniques, I was able to organize and analyze the data efficiently.
 
-Key Features
+Key Features:
+
 1️⃣ Total Number of Patients – Computed the total number of patients across all hospitals.
 
 2️⃣ Average Number of Doctors per Hospital – Retrieved the average number of doctors available in each hospital.
@@ -22,14 +23,16 @@ Key Features
 
 🔟 Monthly Medical Expenses Report – Aggregated medical expenses by month for trend analysis.
 
-Project Files 📂
+Project Files 📂:
+
 📌 Hospital_Data.csv – The original dataset used for the analysis.
 
 📌 SQL_Hospital_Analysis_Report.pdf – The final report with SQL queries and results.
 
 📌 Project_2_Hospital.sql – The SQL script containing all the queries used in this project.
 
-Conclusion
+Conclusion:
+
 This project helped me improve my SQL data analysis skills by working with real-world hospital data. Through various SQL queries, I was able to extract meaningful insights that can be useful for hospital management and decision-making.
 
 📌 Feel free to explore the code, suggest improvements, and reach out for collaboration!
